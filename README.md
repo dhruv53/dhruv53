@@ -1,6 +1,6 @@
 # Welcome To My Github 👋
 
-I’m Dhruv Rohatgi, a ceaseless aspirant for knowledge, a computer science graduate who’s a developer and a programmer with a keen interest and a proven track record for translating complex ideas into slick products. I develop and manage projects from ground zero.
+I’m **Dhruv Rohatgi**, a ceaseless aspirant for knowledge, a computer science graduate who’s a developer and a programmer with a keen interest and a proven track record for translating complex ideas into slick products. I develop and manage projects from ground zero.
 
 Currently, I am venturing my time and soul at Helix Smart Labs, an amazing organization working towards developing IoT Smart Solutions.
 
