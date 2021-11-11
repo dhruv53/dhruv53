@@ -1,4 +1,7 @@
 # Welcome To My Github 👋
+<img src="https://github.com/dhruv53/dhruv53/blob/main/banner.png"/>
+
+
 
 I’m **Dhruv Rohatgi**, a ceaseless aspirant for knowledge, a computer science graduate who’s a developer and a programmer with a keen interest and a proven track record for translating complex ideas into slick products. I develop and manage projects from ground zero.
 
