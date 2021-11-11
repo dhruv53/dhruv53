@@ -1,4 +1,4 @@
-# Welcome To My Github 👋
+# Welcome To My Github <img src="https://github.com/dhruv53/dhruv53/blob/main/wave.gif" width=30/>
 <img src="https://github.com/dhruv53/dhruv53/blob/main/banner.png"/>
 
 
