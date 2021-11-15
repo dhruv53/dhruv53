@@ -17,7 +17,7 @@ Currently, I am venturing my time and soul at HelixSmartLabs, an amazing organiz
 
 
 ### Connect With Me:<br/>
-<a href="http://www.dhruvrohatgi.com/"><img src="https://github.com/dhruv53/dhruv53/blob/main/logo.png" width=40/></a>
+<a href="http://www.dhruvrohatgi.com/"><img src="https://github.com/dhruv53/dhruv53/blob/main/lg.png" width=40/></a>
 <a href="http://www.helixsmartlabs.in/"><img src="https://github.com/dhruv53/dhruv53/blob/main/helix_circle.png" width=40/></a>
 <a href="https://www.linkedin.com/in/dhruv-rohatgi-400251140/"><img src="https://github.com/dhruv53/dhruv53/blob/main/linkedin.png" width=40/></a>
 <a href="https://twitter.com/DhruvRohatgi2"><img src="https://github.com/dhruv53/dhruv53/blob/main/twitter.png" width=40/></a>
